@@ -1,6 +1,10 @@
 ---
 title: mkdocs
+
+hide:
+  - toc
 ---
+
 
 
 # Documentazione
