@@ -22,20 +22,14 @@ extra:
     - icon: fontawesome/brands/twitter
       link: http://twitter.com/cirospat
       name: account twitter
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/ciro.spataro.3
-      name: facebook
     - icon: fontawesome/brands/github
-      link: https://github.com/cirospat/mkdocs-style
+      link: https://github.com/UO-TransizioneDigitaleComunePalermo/mkdocs
       name: Repoisitory GitHub
-    - icon: fontawesome/brands/telegram
-      link: editare url dell'eventuale gruppo telegram
-      name: gruppo Telegram
     - icon: fontawesome/solid/envelope
-      link: mailto:cirospat@gmail.com
-      name: mail to cirospat@gmail.com
+      link: mailto:c.spataro@comune.palermo.it
+      name: mail to c.spataro@comune.palermo.it
     - icon: fontawesome/solid/file-pdf
-      link: https://cirospat.github.io/mkdocs-style/print_page/
+      link: https://uo-transizionedigitalecomunepalermo.github.io/mkdocs/print_page/
       name: Scarica il documento in formato PDF
   # analytics:
   # provider: google
@@ -73,10 +67,10 @@ theme:
   font:
     text: Lato
     code: Roboto Mono
-  favicon: img/logo2.png
+  favicon: img/comune-palermo-innovazione.png
   icon:
     repo: fontawesome/brands/github
-  logo: img/logo2.png
+  logo: img/comune-palermo-innovazione.png
 
 ## Plugins
 plugins:
@@ -146,6 +140,7 @@ extra_css:
   
 ## Page tree 
 # ogni file .md corrisponde ad una pagina web 
+# i file .md possono stare dentro cartelle all'interno della cartella docs
 nav:
     - Home: index.md
     
