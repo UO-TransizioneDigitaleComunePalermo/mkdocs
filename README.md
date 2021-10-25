@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/cirospat/mkdocs-style)
 
 
-![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png) 
+![](https://uo-transizionedigitalecomunepalermo.github.io/mkdocs/img/comune-palermo-innovazione.png) 
 
 &#169; licenza CC BY
 
