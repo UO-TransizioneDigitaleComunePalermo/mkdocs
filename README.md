@@ -1,6 +1,4 @@
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/mkdocs-style.svg?&label=ultimo_aggiornamento">
-![GitHub](https://img.shields.io/github/license/cirospat/mkdocs-style)
+<img alt="undefined" src="https://img.shields.io/github/last-commit/UO-TransizioneDigitaleComunePalermo/mkdocs.svg?&label=ultimo_aggiornamento">
 
 
 ![](https://uo-transizionedigitalecomunepalermo.github.io/mkdocs/img/comune-palermo-innovazione.png) 
@@ -18,7 +16,7 @@ Lavoro realizzato con il prezioso supporto tecnico di [@gbvitrano](https://githu
 
 
 ## Link al progetto creato su pagine di Github
-[cirospat mkdocs-style](https://uo-transizionedigitalecomunepalermo.github.io/mkdocs/)
+[Documentazione con mkdocs](https://uo-transizionedigitalecomunepalermo.github.io/mkdocs/)
 
 
 ## Strumenti integrati nel progetto
