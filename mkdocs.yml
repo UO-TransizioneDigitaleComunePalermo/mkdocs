@@ -17,7 +17,7 @@ extra:
   disqus: mkdocs
   social:
     - icon: fontawesome/solid/home
-      link: https://uo-transizionedigitalecomunepalermo/mkdocs
+      link: https://uo-transizionedigitalecomunepalermo.github.io/mkdocs/
       name: Home Page
     - icon: fontawesome/brands/twitter
       link: http://twitter.com/cirospat
