@@ -18,7 +18,7 @@ Lavoro realizzato con il prezioso supporto tecnico di [@gbvitrano](https://githu
 
 
 ## Link al progetto creato su pagine di Github
-[cirospat mkdocs-style](https://cirospat.github.io/mkdocs-style/)
+[cirospat mkdocs-style](https://uo-transizionedigitalecomunepalermo.github.io/mkdocs/)
 
 
 ## Strumenti integrati nel progetto
