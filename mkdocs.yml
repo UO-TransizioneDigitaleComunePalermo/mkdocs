@@ -1,15 +1,15 @@
 ## Project information
 site_name: cirospat mkdocs-style
-site_url: https://cirospat.github.io/mkdocs-style/
-site_description: cirospat mkdocs-style - modello di documentazione online
+site_url: https://uo-transizionedigitalecomunepalermo.github.io/mkdocs
+site_description: uo-transizionedigitalecomunepalermo.github.io/mkdocs - modello di documentazione online
 
 ## Repository
-# repo_name: cirospat mkdocs-style
-# repo_url: https://github.com/cirospat/mkdocs-style
+# repo_name: uo-transizionedigitalecomunepalermo.github.io/mkdocs
+# repo_url: https://github.com/uo-transizionedigitalecomunepalermo.github.io/mkdocs
 # edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <img src="https://img.shields.io/github/last-commit/cirospat/mkdocs-style.svg?&label=ultimo_aggiornamento">  <img src="https://img.shields.io/github/license/cirospat/mkdocs-style">
+copyright: <img src="https://img.shields.io/github/last-commit/uo-transizionedigitalecomunepalermo/mkdocs.svg?&label=ultimo_aggiornamento">  <img src="https://img.shields.io/github/license/uo-transizionedigitalecomunepalermo/mkdocs">
 
 ## Social Media
 extra:
@@ -17,7 +17,7 @@ extra:
   disqus: mkdocs
   social:
     - icon: fontawesome/solid/home
-      link: https://cirospat.github.io/mkdocs-style/
+      link: https://uo-transizionedigitalecomunepalermo/mkdocs
       name: Home Page
     - icon: fontawesome/brands/twitter
       link: http://twitter.com/cirospat
