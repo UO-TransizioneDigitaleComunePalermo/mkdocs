@@ -1,14 +1,10 @@
 ---
-title: cirospat mkdocs-style 
+title: mkdocs
 ---
 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)  <br>
-<img alt="undefined" src="https://img.shields.io/github/last-commit/cirospat/mkdocs-style.svg?&label=ultimo_aggiornamento"> <br>
-![GitHub](https://img.shields.io/github/license/cirospat/mkdocs-style)
 
-
-# cirospat mkdocs-style
-![](https://raw.githubusercontent.com/cirospat/mkdocs-style/main/docs/img/logo2.png)
+# Documentazione
+![](https://uo-transizionedigitalecomunepalermo.github.io/mkdocs/img/comune-palermo-innovazione.png)
 Modello per la creazione di un progetto di documentazione online
 
 
@@ -23,7 +19,7 @@ Lavoro realizzato con il prezioso supporto tecnico di [@gbvitrano](https://githu
 
 
 ## Link al progetto creato su pagine di Github
-[cirospat mkdocs-style](https://cirospat.github.io/mkdocs-style/)
+[https://uo-transizionedigitalecomunepalermo.github.io/mkdocs/](https://uo-transizionedigitalecomunepalermo.github.io/mkdocs/)
 
 ---
 
@@ -47,15 +43,6 @@ Questi strumenti sono opzionali e possono non essere inclusi nella visualizzazio
 ---
 
 
-## Search Icons + Emojis
-:ant:
-[**icons-emojis**](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#icons-emojis)
-:butterfly:
-
-<iframe width="100%" height="550" src="https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-
 ## Inserire servizio commenti Disqus
 
 esempio di codice
@@ -77,14 +64,4 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 ```
 
-## Simboli 
 
-codici per i simboli
-
-esempi: `simbols` =  :blue_heart:  &#10024; &#x1F310; &#128194; &#128187; &#10233; 
-
-link per i simboli:
-
-- [**https://www.webfx.com/tools/emoji-cheat-sheet**](https://www.webfx.com/tools/emoji-cheat-sheet);
-- [**https://sphinxemojicodes.readthedocs.io**](https://sphinxemojicodes.readthedocs.io);
-- [**https://www.w3schools.com/charsets/ref_emoji.asp**](https://www.w3schools.com/charsets/ref_emoji.asp) Emoji Unicode Reference in html
