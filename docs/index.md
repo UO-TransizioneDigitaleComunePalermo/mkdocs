@@ -2,7 +2,7 @@
 title: mkdocs
 
 hide:
-  - toc
+  - navigation
 ---
 
 
