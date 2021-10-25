@@ -49,6 +49,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - navigation.tabs
   # - toc.integrate
   
   palette:
