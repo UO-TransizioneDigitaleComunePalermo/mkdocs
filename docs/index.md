@@ -1,6 +1,5 @@
 ---
 title: mkdocs
-
 hide:
   - navigation
 ---
